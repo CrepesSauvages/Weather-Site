@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_KEY = 'd50fb900c8a54a89b41190059251301'
+const API_KEY = 'API_KEY'
 const BASE_URL = 'https://api.weatherapi.com/v1'
 
 export const weatherApi = axios.create({
